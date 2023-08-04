@@ -9,7 +9,7 @@
  </center>
 </picture>
 
-## Hello there 👋
+## 👋 Hello there 
 Let's do a little introduction to myself!
 I'm an argentinian systems engineering student looking for more experiences in the long IT road. 
 I'm really passionate about learning new things in almost every aspect of life :) but when it's about tech I'm crazy hahaha.
@@ -18,7 +18,7 @@ Currently trying to insert myself in the web development section of the industry
 
 
 
-## Technologies that I use ⚙
+## ⚙ Technologies that I use 
 🧠 I know how to use:
 + Javascript Vanilla.
 + HTML5.
