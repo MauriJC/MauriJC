@@ -1,5 +1,12 @@
 ### Hello there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.freepnglogos.com/uploads/welcome-png/classic-red-welcome-banner-transparent-png-stickpng-26.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.freepnglogos.com/uploads/welcome-png/classic-red-welcome-banner-transparent-png-stickpng-26.png">
+ <img alt="YOUR-ALT-TEXT" src="https://www.freepnglogos.com/uploads/welcome-png/classic-red-welcome-banner-transparent-png-stickpng-26.png">
+</picture>
+
+
 <!--
 **MauriJC/MauriJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
