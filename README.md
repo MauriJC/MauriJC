@@ -18,7 +18,7 @@ Currently trying to insert myself in the web development section of the industry
 
 
 
-## Technologies that I use
+## Technologies that I use ⚙
 🧠 I know how to use:
 + Javascript Vanilla.
 + HTML5.
