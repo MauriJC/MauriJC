@@ -24,9 +24,10 @@ Currently trying to insert myself in the web development section of the industry
 + HTML5.
 + CSS3.
 + Postman.
++ React.
 
 🌱 I’m currently learning
-- React js
+- Advanced React js
 - Node.js
 
 ## 🔭 I’m currently working on
