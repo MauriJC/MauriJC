@@ -29,6 +29,7 @@ Currently trying to insert myself in the web development section of the industry
 🌱 I’m currently learning
 - Advanced React js
 - Node.js
+- React Native with expo
 
 ## 🔭 I’m currently working on
 Some react projects that will be posted soon:
