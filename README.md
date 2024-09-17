@@ -23,18 +23,19 @@ Currently trying to insert myself in the web development section of the industry
 + Javascript Vanilla.
 + HTML5.
 + CSS3.
-+ Postman.
 + React.
++ Express.
 
 🌱 I’m currently learning
 - Advanced React js
-- Node.js
-- React Native with expo
+- Next js
+- Prisma
+- Tailwindcss
 
 ## 🔭 I’m currently working on
 Some react projects that will be posted soon:
 * My web portfolio.
-* E-commerce website.
+* A private CRM.
 
 
 <!--
