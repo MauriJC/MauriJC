@@ -34,8 +34,7 @@ Currently trying to insert myself in the web development section of the industry
 
 ## 🔭 I’m currently working on
 Some react projects that will be posted soon:
-* My web portfolio.
-* A private CRM.
+* An ecommerce using next js, prisma, tailwind, postgreSQL and nextauth
 
 
 <!--
