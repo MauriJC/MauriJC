@@ -2,38 +2,54 @@
 # I'm **Mauricio Chaile**
 
 <picture>
- <center>
-   <source media="(prefers-color-scheme: dark)" srcset="https://www.freepnglogos.com/uploads/welcome-png/classic-red-welcome-banner-transparent-png-stickpng-26.png">
-   <source media="(prefers-color-scheme: light)" srcset="https://www.freepnglogos.com/uploads/welcome-png/classic-red-welcome-banner-transparent-png-stickpng-26.png">
-   <img alt="Welcome logo" src="https://www.freepnglogos.com/uploads/welcome-png/classic-red-welcome-banner-transparent-png-stickpng-26.png">
- </center>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.freepnglogos.com/uploads/welcome-png/classic-red-welcome-banner-transparent-png-stickpng-26.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.freepnglogos.com/uploads/welcome-png/classic-red-welcome-banner-transparent-png-stickpng-26.png">
+  <img alt="Welcome logo" src="https://www.freepnglogos.com/uploads/welcome-png/classic-red-welcome-banner-transparent-png-stickpng-26.png">
 </picture>
 
 ## 👋 Hello there 
-Let's do a little introduction to myself!
-I'm an argentinian systems engineering student looking for more experiences in the long IT road. 
-I'm really passionate about learning new things in almost every aspect of life :) but when it's about tech I'm crazy hahaha.
-Currently trying to insert myself in the web development section of the industry. 
 
+Hi! I'm Mauricio Chaile, a Systems Engineering student from Argentina, passionate about technology and continuous learning.  
+I'm currently focused on web development and looking for opportunities to grow in the industry.
 
+---
 
+## ⚙ Technologies I Use
 
-## ⚙ Technologies that I use 
-🧠 I know how to use:
-+ Javascript Vanilla.
-+ HTML5.
-+ CSS3.
-+ React.
-+ Express.
+### 🧠 Technologies I Work With
+- ⚛️ React.js
+- 🌐 Next.js
+- 🟨 TypeScript
+- 🧵 Express.js
+- 🎨 TailwindCSS
+- 🔷 Prisma
 
-🌱 I’m currently learning
-- Advanced React js
-- Next js
-- Prisma
-- Tailwindcss
+### 🌱 Currently Learning
+- ⚡ Advanced React
+- 🧬 Nest.js
+- 🌿 AI Integrations
+- ⛵ Docker
+- 🍔 tRPC
 
-## 🔭 I’m currently working on
-* Collaborating with PCN website
+---
+
+## 🔭 I’m Currently Working On
+- Collaborating with [PCN website](https://github.com/MauriJC/pcn-website), a community-driven project for programmers.
+
+---
+
+## 🧪 Projects I'm Proud Of
+- 🧠 [Galenos](https://github.com/MauriJC/galenos): Pulmonary disease identification using AI.
+- 🌐 [PCN Website](https://github.com/MauriJC/pcn-website): Social network for programmers.
+- 💼 [Claims CRM](https://github.com/MauriJC/frontend-reclamos-telefonica): A CRM for clients and installations for a local ISP.
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauriciojavierchaile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xaviermauricio33@gmail.com)
+
 
 
 <!--
