@@ -23,6 +23,7 @@ I'm currently focused on web development and looking for opportunities to grow i
 - 🧵 Express.js
 - 🎨 TailwindCSS
 - 🔷 Prisma
+- 📲 Expo
 
 ### 🌱 Currently Learning
 - ⚡ Advanced React
