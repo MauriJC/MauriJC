@@ -9,7 +9,7 @@
 
 ## 👋 Hello there 
 
-Hi! I'm Mauricio Chaile, a Systems Engineering student from Argentina, passionate about technology and continuous learning.  
+Hi! I'm Mauricio Chaile, a Systems Engineer from Argentina, passionate about technology and continuous learning.  
 I'm currently focused on web development and looking for opportunities to grow in the industry.
 
 ---
