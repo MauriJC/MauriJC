@@ -24,13 +24,16 @@ I'm currently focused on web development and looking for opportunities to grow i
 - 🎨 TailwindCSS
 - 🔷 Prisma
 - 📲 Expo
+- 🧬 Nest.js
+- 👾 React Native
+- 🎃 TypeORM
 
 ### 🌱 Currently Learning
-- ⚡ Advanced React
-- 🧬 Nest.js
-- 🌿 AI Integrations
+- ⚡ Advanced React && Nest
+- 🌿 AI Integrations (Agent native)
 - ⛵ Docker
 - 🍔 tRPC
+- 👀 Testing with Jest
 
 ---
 
